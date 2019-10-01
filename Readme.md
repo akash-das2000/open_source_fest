@@ -1,3 +1,3 @@
-## Add your name her
+## Add your names here
 * Amartya Mondal
 * Akash Das
